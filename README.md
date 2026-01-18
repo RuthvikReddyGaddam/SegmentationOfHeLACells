@@ -1,2 +1,2 @@
-# Segmentation of HeLA Cells on FLat Glass Using Deep Learning
+# Segmentation of HeLA Cells on Flat Glass Using Deep Learning
 ![poster image](Poster.jpg)
